@@ -2,6 +2,8 @@
 
 A GUI-based application for training and fine-tuning object detection models incrementally using Faster R-CNN. This tool allows users to easily train object detection models on custom datasets without requiring extensive machine learning knowledge.
 
+![Object Detection Example](R1280x0-6.png)
+
 ## Features
 
 - **User-friendly GUI**: Simple interface for loading images and annotations
